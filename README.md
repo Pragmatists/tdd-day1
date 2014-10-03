@@ -12,7 +12,7 @@
   * [Growing Object-Oriented Software](https://groups.google.com/forum/#!forum/growing-object-oriented-software)
   * [Software Craftsmanship](https://groups.google.com/forum/#!forum/software_craftsmanship)
 * Blogs
-  * [Uncle Bob](http://blog.8thlight.com/uncle-bob/archive.html)
+  * [Uncle Bob](http://blog.cleancoder.com/)
   * [JB](http://blog.thecodewhisperer.com/)
 * Screencasts
   * [Getting started with TDD in Java using Eclipse / Brett Schuchert](http://vimeo.com/10569751)
