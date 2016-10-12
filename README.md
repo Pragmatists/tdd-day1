@@ -5,7 +5,7 @@
   * [Growing Object-Oriented Software, Guided by Tests / Steve Freeman, Nat Pryce](http://www.growing-object-oriented-software.com/)
   * [Test-Driven Development: By Example / Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
   * [Refactoring to Patterns / Joshua Kerievsky](http://industriallogic.com/xp/refactoring/)
-    * [Polish language version](helion.pl/ksiazki/refawp.htm)
+    * [Polish language version](http://helion.pl/ksiazki/refawp.htm)
   * [Practical Unit Testing / Tomasz Kaczanowski](http://practicalunittesting.com/)
 * Discussion groups
   * [Growing Object-Oriented Software](https://groups.google.com/forum/#!forum/growing-object-oriented-software)
