@@ -20,7 +20,7 @@
   * [KataCasts](http://vimeo.com/channels/katacasts)
 * Spring-MVC testing
   * [Official Spring documentation](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/testing.html#spring-mvc-test-framework)
-  * [Blog posts on spring-test-mvc-htmlunit](http://spring.io/blog/2014/03/19/introducing-spring-test-mvc-htmlunit) - combining spring-mvc tests with webdriver api to test your view as well. Available in milestone repositories as of now.
+  * [Blog posts on spring-test-mvc-htmlunit](http://spring.io/blog/2014/03/19/introducing-spring-test-mvc-htmlunit) - combining spring-mvc tests with webdriver api to test your view as well. Integrated into spring-test: [official documentation](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/integration-testing.html#spring-mvc-test-server-htmlunit)
   * [Simple example](https://github.com/Pragmatists/Bantumi/blob/master/engine/src/test/java/bantumi/engine/EngineControllerTest.java) in one of our repositories
   
 Feel free to make a pull request if you have other valuable resources worth mentioning here.
